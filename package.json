@@ -31,10 +31,10 @@
     "collections",
     "Gateway"
   ],
-  "peerDependencies": {
-    "react": "^15.0.0 || ^18.0.0",
-    "react-dom": "^15.0.0 || ^18.0.0"
-  },
+"peerDependencies": {
+  "react": ">=16",
+  "react-dom": ">=16"
+},
   "devDependencies": {
     "@babel/core": "^7.15.0",
     "@babel/preset-env": "^7.20.2",
